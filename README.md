@@ -1,13 +1,13 @@
-👋 Hi, I’m Albert
+👋 Hi, I’m Albert<br><br>
 
-A passionate creator who loves building clean websites, digital tools, and visual experiences. I enjoy experimenting with UI/UX, automation, and creative coding — turning simple ideas into polished, functional products.
+A passionate creator who loves building clean websites, digital tools, and visual experiences. I enjoy experimenting with UI/UX, automation, and creative coding — turning simple ideas into polished, functional products.<br>
 
 🚀 What I Do<br>
--Build modern websites & landing pages
--Create digital products (templates, resources)
--Design simple, minimal brand identities
--Explore AI workflows, app concepts, and tool building
+-Build modern websites & landing pages<br>
+-Create digital products (templates, resources)<br>
+-Design simple, minimal brand identities<br>
+-Explore AI workflows, app concepts, and tool building<br><br>
 
-📫 Connect With Me
+📫 Connect With Me<br>
 -Feel free to reach out for collaborations, ideas, or projects.
--->
+
