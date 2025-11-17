@@ -2,7 +2,7 @@
 
 A passionate creator who loves building clean websites, digital tools, and visual experiences. I enjoy experimenting with UI/UX, automation, and creative coding — turning simple ideas into polished, functional products.
 
-🚀 What I Do
+🚀 What I Do<br>
 -Build modern websites & landing pages
 -Create digital products (templates, resources)
 -Design simple, minimal brand identities
