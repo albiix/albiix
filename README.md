@@ -1,4 +1,4 @@
-👋 Hi, I’m Albert<br><br>
+👋 Hi, I’m Albert<br>
 
 A passionate creator who loves building clean websites, digital tools, and visual experiences. I enjoy experimenting with UI/UX, automation, and creative coding — turning simple ideas into polished, functional products.<br>
 
